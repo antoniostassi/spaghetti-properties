@@ -15,7 +15,7 @@ Here you'll find a list of all the features of this script.
 <b> Dependencies : </b>
 
 
-<a href="https://github.com/VORPCORE/VORP-Core"> VORP Core </a>
-<a href="https://github.com/VORPCORE/VORP-Inventory"> VORP Inventory </a>
+- <a href="https://github.com/VORPCORE/VORP-Core"> VORP Core </a>
+- <a href="https://github.com/VORPCORE/VORP-Inventory"> VORP Inventory </a>
 
 <b><i> Enjoy it! </b></i>
